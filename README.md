@@ -1,7 +1,8 @@
 # rjdownloader
 Download music with direct link from radiojavan.com
 
-https://narsiiis.github.io/rjdownloader/
+# Live Version
+https://wiz.gg/rj
 
 ### Support
 - Album
