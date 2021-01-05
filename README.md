@@ -1,13 +1,11 @@
 # RadioJavan Downloader✅
-# rjdownloader
 Download music with direct link from radiojavan.com
 
 ### Live Version✅
 https://wiz.gg/rj
-https://narsiiis.github.io/rjdownloader/
+
 
 ### Support✅
-### Support
 - Album
 - Playlist
 - Music Video
